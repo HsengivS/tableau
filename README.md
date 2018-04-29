@@ -1,0 +1,2 @@
+# tableau
+The  Objective  is to do Exploratory Data Analysis on the top rated IMDB movies of all time and Provide a Descriptive data report to the cine Industries people. It is a Review Context is to analyse and find the success of a highly rated movie and its relationship with various variables. Actionable the results can help film companies to understand the secret of generating a commercial success movie.
